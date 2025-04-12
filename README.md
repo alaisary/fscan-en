@@ -1,5 +1,4 @@
 # fscan
-[url-doczh]
 
 # 1. Introduction
 An intranet comprehensive scanning tool, which is convenient for automatic and omnidirectional missed scanning.
@@ -257,4 +256,4 @@ Modify the error prompt. If there is no new progress in - debug within 10 second
 2020/11/16 Optimize the icmp module and add the -it parameter (IcmpThreads). The default value is 11000, which is suitable for scanning section B.    
 2020/11/15 Support importt ip from file, -hf ip.txt, and process de duplication ips.  
 
-[url-doczh]: README.md
+ README.md
