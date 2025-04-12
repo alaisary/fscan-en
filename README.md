@@ -203,20 +203,6 @@ Before installing and using this tool, please **be sure to carefully read and fu
 Unless you have fully read, fully understood and accepted all the terms of this agreement, please do not install and use this tool. Your use behavior or your acceptance of this agreement in any other express or implied way shall be deemed to have read and agreed to be bound by this agreement.
 
 
-# 6. 404StarLink 2.0 - Galaxy
-![](https://github.com/knownsec/404StarLink-Project/raw/master/logo.png)
-
-Fscan is the member of 404Team [404StarLink2.0](https://github.com/knownsec/404StarLink2.0-Galaxy)，If you have any questions about fscan or want to find a partner to communicate with, you can adding groups.
-
-- [https://github.com/knownsec/404StarLink2.0-Galaxy#community](https://github.com/knownsec/404StarLink2.0-Galaxy#community)
-
-
-# 7. Star Chart
-[![Stargazers over time](https://starchart.cc/shadow1ng/fscan.svg)](https://starchart.cc/shadow1ng/fscan)
-
-# 8. Donation
- If you think this project is helpful to you, invite the author to have a drink🍹 [click](image/sponsor.png)
-
 # 9. Reference links
 https://github.com/Adminisme/ServerScan  
 https://github.com/netxfly/x-crack  
