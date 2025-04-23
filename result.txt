@@ -1,0 +1,53 @@
+[2025-04-12 03:35:09] [HOST] Target:10.124.0.130 Status:alive Details:protocol=ICMP
+[2025-04-12 03:35:09] [HOST] Target:10.124.0.129 Status:alive Details:protocol=ICMP
+[2025-04-12 03:35:09] [HOST] Target:10.124.0.167 Status:alive Details:protocol=ICMP
+[2025-04-12 03:35:09] [HOST] Target:10.124.0.164 Status:alive Details:protocol=ICMP
+[2025-04-12 03:35:09] [HOST] Target:10.124.0.165 Status:alive Details:protocol=ICMP
+[2025-04-12 03:35:09] [HOST] Target:10.124.0.166 Status:alive Details:protocol=ICMP
+[2025-04-12 03:35:09] [HOST] Target:10.124.0.163 Status:alive Details:protocol=ICMP
+[2025-04-12 03:35:09] [HOST] Target:10.124.0.161 Status:alive Details:protocol=ICMP
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.165 Status:open Details:port=22
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.164 Status:open Details:port=22
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.130 Status:open Details:port=80
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.161 Status:open Details:port=22
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.164 Status:open Details:port=80
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.165 Status:open Details:port=80
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.166 Status:open Details:port=22
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.163 Status:open Details:port=22
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.166 Status:open Details:port=80
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.161 Status:open Details:port=80
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.167 Status:open Details:port=22
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.163 Status:open Details:port=80
+[2025-04-12 03:35:11] [PORT] Target:10.124.0.130 Status:open Details:port=22
+[2025-04-12 03:35:11] [SERVICE] Target:10.124.0.165 Status:identified Details:service=ssh, version=8.2p1 Ubuntu 4ubuntu0.2, product=OpenSSH, os=Linux, info=Ubuntu Linux; protocol 2.0, banner=SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.2., port=22
+[2025-04-12 03:35:11] [SERVICE] Target:10.124.0.164 Status:identified Details:port=22, service=ssh, version=7.6p1 Ubuntu 4ubuntu0.3, product=OpenSSH, os=Linux, info=Ubuntu Linux; protocol 2.0, banner=SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3.
+[2025-04-12 03:35:11] [SERVICE] Target:10.124.0.161 Status:identified Details:port=22, service=ssh, version=9.3, product=OpenSSH, info=protocol 2.0, banner=SSH-2.0-OpenSSH_9.3.
+[2025-04-12 03:35:11] [SERVICE] Target:10.124.0.167 Status:identified Details:os=Linux, info=Ubuntu Linux; protocol 2.0, banner=SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.12., port=22, service=ssh, version=8.2p1 Ubuntu 4ubuntu0.12, product=OpenSSH
+[2025-04-12 03:35:11] [SERVICE] Target:10.124.0.130 Status:identified Details:port=22, service=ssh, version=9.3, product=OpenSSH, info=protocol 2.0, banner=SSH-2.0-OpenSSH_9.3.
+[2025-04-12 03:35:11] [SERVICE] Target:10.124.0.166 Status:identified Details:port=22, service=ssh, version=8.2p1 Ubuntu 4ubuntu0.12, product=OpenSSH, os=Linux, info=Ubuntu Linux; protocol 2.0, banner=SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.12.
+[2025-04-12 03:35:11] [SERVICE] Target:10.124.0.163 Status:identified Details:version=7.9p1 Debian 10+deb10u2, product=OpenSSH, os=Linux, info=protocol 2.0, banner=SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2., port=22, service=ssh
+[2025-04-12 03:35:14] [PORT] Target:10.124.0.130 Status:open Details:port=443
+[2025-04-12 03:35:15] [PORT] Target:10.124.0.161 Status:open Details:port=443
+[2025-04-12 03:35:16] [SERVICE] Target:10.124.0.130 Status:identified Details:port=80, service=http, product=nginx
+[2025-04-12 03:35:16] [SERVICE] Target:10.124.0.165 Status:identified Details:port=80, service=http
+[2025-04-12 03:35:16] [SERVICE] Target:10.124.0.164 Status:identified Details:service=http, port=80
+[2025-04-12 03:35:17] [SERVICE] Target:10.124.0.161 Status:identified Details:service=http, product=nginx, port=80
+[2025-04-12 03:35:17] [SERVICE] Target:10.124.0.166 Status:identified Details:port=80, service=http
+[2025-04-12 03:35:17] [SERVICE] Target:10.124.0.163 Status:identified Details:port=80, service=http
+[2025-04-12 03:35:20] [PORT] Target:10.124.0.166 Status:open Details:port=3000
+[2025-04-12 03:35:21] [PORT] Target:10.124.0.166 Status:open Details:port=3306
+[2025-04-12 03:35:21] [SERVICE] Target:10.124.0.166 Status:identified Details:product=MySQL, banner=[.8.0.41-0ubuntu0.20.04.1 m.8-G.t21.q\.3:ryKn.caching_sha2_password, port=3306, service=mysql, version=8.0.41-0ubuntu0.20.04.1
+[2025-04-12 03:35:31] [SERVICE] Target:10.124.0.166 Status:identified Details:port=3000, service=http
+[2025-04-12 03:36:16] [SERVICE] Target:10.124.0.130 Status:identified Details:service=unknown, port=443
+[2025-04-12 03:36:16] [SERVICE] Target:10.124.0.161 Status:identified Details:service=unknown, port=443
+[2025-04-12 03:36:17] [SERVICE] Target:10.124.0.163 Status:identified Details:port=80, service=http, title=Untitled, url=http://10.124.0.163, status_code=301, length=0, server_info=map[content-length:0 length:0 location:http://fileshosting.cbs.stf:80 redirect_url:http://fileshosting.cbs.stf:80 status_code:301 title:Untitled], fingerprints=[]
+[2025-04-12 03:36:17] [SERVICE] Target:10.124.0.165 Status:identified Details:server_info=map[content-length:0 length:0 location:http://sphinx.cbs.stf:80 redirect_url:http://sphinx.cbs.stf:80 status_code:301 title:Untitled], fingerprints=[], port=80, service=http, title=Untitled, url=http://10.124.0.165, status_code=301, length=0
+[2025-04-12 03:36:17] [SERVICE] Target:10.124.0.164 Status:identified Details:length=0, server_info=map[content-length:0 length:0 location:http://wc.cbs.stf:80 redirect_url:http://wc.cbs.stf:80 status_code:301 title:Untitled], fingerprints=[], port=80, service=http, title=Untitled, url=http://10.124.0.164, status_code=301
+[2025-04-12 03:36:17] [SERVICE] Target:10.124.0.166 Status:identified Details:title=Untitled, url=http://10.124.0.166, status_code=301, length=0, server_info=map[content-length:0 length:0 location:http://landing.cbs.stf:80 redirect_url:http://landing.cbs.stf:80 status_code:301 title:Untitled], fingerprints=[], port=80, service=http
+[2025-04-12 03:36:17] [SERVICE] Target:10.124.0.161 Status:identified Details:service=http, title=301 Moved Permanently, url=http://10.124.0.161, status_code=301, length=162, server_info=map[content-length:162 content-type:text/html date:Sat, 12 Apr 2025 07:36:17 GMT length:162 location:https://10.124.0.161/ redirect_url:https://10.124.0.161/ server:nginx status_code:301 title:301 Moved Permanently x-frame-options:SAMEORIGIN], fingerprints=[], port=80
+[2025-04-12 03:36:17] [SERVICE] Target:10.124.0.130 Status:identified Details:server_info=map[content-length:162 content-type:text/html date:Sat, 12 Apr 2025 07:36:17 GMT length:162 location:https://10.124.0.130/ redirect_url:https://10.124.0.130/ server:nginx status_code:301 title:301 Moved Permanently x-frame-options:SAMEORIGIN], fingerprints=[], port=80, service=http, title=301 Moved Permanently, url=http://10.124.0.130, status_code=301, length=162
+[2025-04-12 03:36:17] [SERVICE] Target:10.124.0.161 Status:identified Details:length=552, server_info=map[content-length:552 content-type:text/html date:Sat, 12 Apr 2025 07:36:17 GMT length:552 server:nginx status_code:502 title:502 Bad Gateway], fingerprints=[], port=443, service=http, title=502 Bad Gateway, url=https://10.124.0.161, status_code=502
+[2025-04-12 03:36:17] [SERVICE] Target:10.124.0.130 Status:identified Details:url=https://10.124.0.130, status_code=502, length=552, server_info=map[content-length:552 content-type:text/html date:Sat, 12 Apr 2025 07:36:17 GMT length:552 server:nginx status_code:502 title:502 Bad Gateway], fingerprints=[], port=443, service=http, title=502 Bad Gateway
+[2025-04-12 03:36:19] [SERVICE] Target:10.124.0.161 Status:identified Details:length=552, server_info=map[content-length:552 content-type:text/html date:Sat, 12 Apr 2025 07:36:19 GMT length:552 server:nginx status_code:502 title:502 Bad Gateway], fingerprints=[], port=80, service=http, title=502 Bad Gateway, url=https://10.124.0.161/, status_code=502
+[2025-04-12 03:36:19] [SERVICE] Target:10.124.0.130 Status:identified Details:title=502 Bad Gateway, url=https://10.124.0.130/, status_code=502, length=552, server_info=map[content-length:552 content-type:text/html date:Sat, 12 Apr 2025 07:36:19 GMT length:552 server:nginx status_code:502 title:502 Bad Gateway], fingerprints=[], port=80, service=http
+[2025-04-12 03:36:20] [SERVICE] Target:10.124.0.166 Status:identified Details:length=139, server_info=map[access-control-allow-origin:* content-length:139 content-security-policy:default-src 'none' content-type:text/html; charset=utf-8 date:Sat, 12 Apr 2025 07:36:19 GMT length:139 status_code:404 title:Error x-content-type-options:nosniff x-powered-by:Express], fingerprints=[], port=3000, service=http, title=Error, url=http://10.124.0.166:3000, status_code=404
