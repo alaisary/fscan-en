@@ -1,5 +1,4 @@
 # fscan
-[中文][url-doczh]
 
 # 1. Introduction
 An intranet comprehensive scanning tool, which is convenient for automatic and omnidirectional missed scanning.
